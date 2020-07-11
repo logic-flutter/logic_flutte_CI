@@ -38,7 +38,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 LICENSE
   }
   s.author                = { 'Flutter Dev Team' => 'flutter-dev@googlegroups.com' }
-  s.source                = { :http => 'https://storage.flutter-io.cn/flutter_infra/flutter/6bc433c6b6b5b98dcf4cc11aff31cdee90849f32/ios/artifacts.zip' }
+  s.source                = { :http => 'https://storage.googleapis.com/flutter_infra/flutter/6bc433c6b6b5b98dcf4cc11aff31cdee90849f32/ios/artifacts.zip' }
   s.documentation_url     = 'https://flutter.dev/docs'
   s.platform              = :ios, '8.0'
   s.vendored_frameworks   = 'Flutter.framework'
